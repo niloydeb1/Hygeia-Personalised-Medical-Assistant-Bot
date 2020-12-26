@@ -13,6 +13,9 @@ Project Name: Hygeia-Personalized-Medical-Assistant-Bot
 Project Link:
 - https://d3t3iki22r9zwv.cloudfront.net/index.html
 
+Youtube Video Link:
+- https://youtu.be/LuvO_OaVJ98
+
 Project Short Description: 
 Getting a proper health care is still a luxury for a majority of the population for a developing country like Bangladesh and so we tried to solve that using a virtual assistant. We worked on Challenge 1: Virtual Assistant.
 
