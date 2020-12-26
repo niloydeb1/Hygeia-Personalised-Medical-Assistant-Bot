@@ -10,6 +10,10 @@ Team Members:
 
 Project Name: Hygeia-Personalised-Medical-Assistant-Bot
 
-Project Short Description: Getting a proper health care is still a luxury for a majority of the population for a developing country like Bangladesh and so we tried to solve that using a virtual assistant. We worked on Challenge 1: Virtual Assistant.
+Project Link:
+- https://d3t3iki22r9zwv.cloudfront.net/index.html
+
+Project Short Description: 
+Getting a proper health care is still a luxury for a majority of the population for a developing country like Bangladesh and so we tried to solve that using a virtual assistant. We worked on Challenge 1: Virtual Assistant.
 
 
