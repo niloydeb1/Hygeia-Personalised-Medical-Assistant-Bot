@@ -1,14 +1,14 @@
 # Hygeia-Personalized-Medical-Assistant-Bot
 
-Project Name: Hygeia-Personalized-Medical-Assistant-Bot
+### Project Name: Hygeia-Personalized-Medical-Assistant-Bot
 
-Project Link:
+### Project Link:
 - https://d3t3iki22r9zwv.cloudfront.net/index.html
 
-Youtube Video Link:
+### Youtube Video Link:
 - https://youtu.be/LuvO_OaVJ98
 
-Tools:
+### Tools:
 - Amazon Lex
 - Amazon Lambda
 - Amazon SNS
